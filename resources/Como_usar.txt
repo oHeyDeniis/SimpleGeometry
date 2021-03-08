@@ -1,0 +1,23 @@
+Coloque aqui o arquivo .json e a imagem da geometria renomeadas com o mesmo nome
+exemplo Teste.json e Teste.png
+
+entre no arquivo .json e veja qual nome da geometria por exemplo
+
+{
+	"format_version": "1.10.0",
+	"geometry.sla": {
+		"texturewidth": 64,
+		"textureheight": 64,
+		"visible_bounds_width": 4,
+		"visible_bounds_height": 4,
+		"visible_bounds_offset": [0, 1, 0],
+		"bones": [
+			{
+				"name": "bone",
+				"pivot": [-1, 0, 0],
+				"cubes": [..................
+Neste exemplo o nome da geometria é: geometry.sla
+
+depois disso va no jogo e use /ag eu geometry.sla Teste
+
+aproveite

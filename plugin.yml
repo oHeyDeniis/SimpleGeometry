@@ -1,0 +1,9 @@
+name: SimpleGeometry
+main: geometry\Main
+api: 3.0.0
+version: 1
+author: oHeyDeniis
+commands:
+  addgeometry:
+    descricption: define geometria de uma entidade
+    aliases: [ag]
